@@ -1,0 +1,13 @@
+{"input": "Darts.new(-9, 9).score", "expect": 0, "raised": false, "task": "darts", "lang": "ruby"}
+{"input": "Darts.new(0, 10).score", "expect": 1, "raised": false, "task": "darts", "lang": "ruby"}
+{"input": "Darts.new(-5, 0).score", "expect": 5, "raised": false, "task": "darts", "lang": "ruby"}
+{"input": "Darts.new(0, -1).score", "expect": 10, "raised": false, "task": "darts", "lang": "ruby"}
+{"input": "Darts.new(0, 0).score", "expect": 10, "raised": false, "task": "darts", "lang": "ruby"}
+{"input": "Darts.new(-0.1, -0.1).score", "expect": 10, "raised": false, "task": "darts", "lang": "ruby"}
+{"input": "Darts.new(0.7, 0.7).score", "expect": 10, "raised": false, "task": "darts", "lang": "ruby"}
+{"input": "Darts.new(0.8, -0.8).score", "expect": 5, "raised": false, "task": "darts", "lang": "ruby"}
+{"input": "Darts.new(-3.5, 3.5).score", "expect": 5, "raised": false, "task": "darts", "lang": "ruby"}
+{"input": "Darts.new(-3.6, -3.6).score", "expect": 1, "raised": false, "task": "darts", "lang": "ruby"}
+{"input": "Darts.new(-7.0, 7.0).score", "expect": 1, "raised": false, "task": "darts", "lang": "ruby"}
+{"input": "Darts.new(7.1, -7.1).score", "expect": 0, "raised": false, "task": "darts", "lang": "ruby"}
+{"input": "Darts.new(0.5, -4).score", "expect": 5, "raised": false, "task": "darts", "lang": "ruby"}

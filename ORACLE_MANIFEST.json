@@ -1,0 +1,16 @@
+{
+ "oracle_class": "compute-oracle",
+ "oracle_type": "codegen-conformance",
+ "title": "Konformancia-felulet: darts (ruby, kanonikus exercism korpusz)",
+ "owner": "harvest",
+ "verify": "python3 verify.py",
+ "hardware_free_verify": true,
+ "publish_ready": true,
+ "measurement_byte_lock": "f8e5c2fe8675df53d4c9d2af1f297d94d4021e33dd48bebddf8b0d41f18575e3",
+ "evidence_band": "empirical-corpus",
+ "evidence_basis": "sealed ujrafuttatas a KOZOLT kanonikus korpuszon; nem szimbolikus",
+ "not_comparable_with": "symbolic-full-input-space (KLEE-alapu conformance)",
+ "runtime_dependency": "ruby",
+ "summary": "13 kanonikus bemenet/kimenet par, 4 distinct; a referencia PROVEN (pin=570a00e27c42231f)",
+ "scope_note": "NEM altalanos helyesseg-orakulum; a kozolt korpuszon kivul semmit nem allit."
+}
